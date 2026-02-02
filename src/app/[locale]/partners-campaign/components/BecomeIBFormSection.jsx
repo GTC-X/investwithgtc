@@ -15,7 +15,7 @@ const selectStyles = {
     ...base,
     backgroundColor: "#fff",
     color: "#000",
-    borderColor: state.isFocused ? "#666684" : "#d1d5db",
+    borderColor: state.isFocused ? "#666684" : "#d1d5db", 
     boxShadow: "none",
     ":hover": { borderColor: "#666684" },
     minHeight: 42,
